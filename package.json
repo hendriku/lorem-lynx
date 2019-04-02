@@ -1,0 +1,28 @@
+{
+  "name": "lorem-lynx",
+  "version": "1.0.0",
+  "description": "A fancy placeholder image provider with lynxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendriku/lorem-lynx.git"
+  },
+  "keywords": [
+    "lorem",
+    "placeholder",
+    "lynx"
+  ],
+  "author": "Hendrik Ulbrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hendriku/lorem-lynx/issues"
+  },
+  "homepage": "https://github.com/hendriku/lorem-lynx#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sharp": "^0.22.0"
+  }
+}
