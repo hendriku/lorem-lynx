@@ -1,9 +1,9 @@
 # lorem-lynx 😼
-A fancy placeholder image provider with lynxes. They're cut and simply awesome. Did you see their brushes on their ears? Tremendous.
+A fancy placeholder image provider with lynxes. They're cute and simply awesome. Did you see their brushes on their ears? Tremendous.
 
 ![lynx](./demo.gif)
 
-Live example: https://lynx.hobbytes.de/ or https://luchs.hobbytes.de/
+Live example: https://lynx.hobbytes.de/image or https://luchs.hobbytes.de/image
 
 Use the url query parameters to set metrics and type of the image you want.
 
